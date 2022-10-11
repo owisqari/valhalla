@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    this XML file is not a layout for an activity
+    it's a "holder" for the data within the recycler view in the leaderboard page
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_marginBottom="10dp">
+
+    <!-- numbering section -->
+    <LinearLayout
+        android:layout_width="38dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp">
+
+        <TextView
+            android:id="@+id/numbering"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="1"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <!-- end of numbering section -->
+
+    <!-- name section -->
+    <LinearLayout
+        android:layout_width="178dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Ahmed Alghamdi"
+            android:textColor="@color/white" />
+    </LinearLayout>
+    <!-- end of name section -->
+
+    <!-- rank section -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/rank"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Gold"
+            android:textColor="@color/white"
+            />
+    </LinearLayout>
+    <!-- end of rank section -->
+
+</LinearLayout>

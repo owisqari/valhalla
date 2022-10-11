@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Valhalla</string>
+
+    <string-array name="rank_array">
+        <item>NA</item>
+        <item>Bronze</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Diamond</item>
+    </string-array>
+
+    <!--  Spinner Style  -->
+    <style name="spinner_style">
+        <item name="android:layout_width">275dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/GullGray</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+</resources>

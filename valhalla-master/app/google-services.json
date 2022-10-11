@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272591306134",
+    "project_id": "valhalla-3d619",
+    "storage_bucket": "valhalla-3d619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272591306134:android:f3460fd52fc2d90155b1b7",
+        "android_client_info": {
+          "package_name": "com.mobileproject.valhalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272591306134-ao0av1crtf1ks391lg20do864jppnlpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtVCk-CgoQvDOkZL13guWoQ9B6qzchow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272591306134-ao0av1crtf1ks391lg20do864jppnlpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

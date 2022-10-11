@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">272591306134-ao0av1crtf1ks391lg20do864jppnlpq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">272591306134</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJtVCk-CgoQvDOkZL13guWoQ9B6qzchow</string>
+    <string name="google_app_id" translatable="false">1:272591306134:android:f3460fd52fc2d90155b1b7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJtVCk-CgoQvDOkZL13guWoQ9B6qzchow</string>
+    <string name="google_storage_bucket" translatable="false">valhalla-3d619.appspot.com</string>
+    <string name="project_id" translatable="false">valhalla-3d619</string>
+</resources>

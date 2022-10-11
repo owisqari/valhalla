@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_valo.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\valo.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\font_debug.ttf.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\font\\debug.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_sendmessage.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\sendmessage.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_rank.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\rank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_fn.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\fn.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_login.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_cod.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\cod.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_appicon.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_leaderboard.xml.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\layout\\activity_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_overwatch.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\overwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\build\\intermediates\\merged_res\\debug\\drawable_header.png.flat",
+        "source": "C:\\Users\\Damas\\AndroidStudioProjects\\Valhalla\\app\\src\\main\\res\\drawable\\header.png"
+    }
+]
