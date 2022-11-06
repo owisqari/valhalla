@@ -1,2 +1,2 @@
 # valhalla
-Mobile application that focuses on gathering and connecting gaming communities together creating a great environment.
+Mobile application that focuses on gathering and connecting gaming communities together, and creating a great environment.
